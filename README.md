@@ -4,6 +4,11 @@
 - 👾 Gosto de animes, jogos e batatinhas
 - 🔮 Pronomes ele/dele
 
+<img src="https://media.giphy.com/media/cdMKKxkk1swagnjSwc/giphy.gif" width="200" height="200" />
+
+
+##
+
 <div align="center">
   <a href="https://github.com/C0sm1cWh4l3">
   <img width=50% src="https://github-readme-stats.vercel.app/api?username=C0sm1cWh4l3&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -20,6 +25,7 @@
 </div>
   
  ##
+  
 <div>
   <a href = "mailto:felipesec21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-araujo-4b06881a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
