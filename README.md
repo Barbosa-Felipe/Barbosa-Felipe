@@ -4,8 +4,7 @@
 - 👾 Gosto de animes, jogos e batatinhas
 - 🔮 Pronomes ele/dele
 
-<img src="https://media.giphy.com/media/cdMKKxkk1swagnjSwc/giphy.gif" width="200" height="200" />
-
+<div align="center"><img src="https://media.giphy.com/media/cdMKKxkk1swagnjSwc/giphy.gif" width="200" height="200" /></div>
 
 ##
 
