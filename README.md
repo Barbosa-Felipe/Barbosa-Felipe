@@ -1,4 +1,4 @@
-## Olá! eu sou o C0sm1cWh4l3
+## Olá! eu me chamo Felipe Barbosa
 
 - 🎮 Estudante de programação
 - 👾 Gosto de animes, jogos e batatinhas
