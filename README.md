@@ -1,4 +1,4 @@
-## Olá! eu me chamo Felipe Barbosa
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 🎮 Estudante de programação
 - 👾 Gosto de animes, jogos e batatinhas
