@@ -23,7 +23,7 @@ alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
             <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Barbosa-Felipe&theme=synthwave&hide_border=true" />
       </td>
       <td width="50%" align="center">
-            <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100%"/>
+            <img src="https://media.giphy.com/media/VEhpX9lshFoFHNS563/giphy.gif" width="80%"/>
       </td>
 </tr>
 </table>
