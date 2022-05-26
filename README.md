@@ -30,5 +30,5 @@
   <a href="https://www.linkedin.com/in/felipe-araujo-4b06881a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/C0sm1cWh4l3/C0sm1cWh4l3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Barbosa-Felipe/Barbosa-Felipe/blob/output/github-contribution-grid-snake.svg)
 
