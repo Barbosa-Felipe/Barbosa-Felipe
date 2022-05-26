@@ -4,7 +4,7 @@
 alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 
 ### 🤵 About Me:
-- 🏦 I'm currently a software student 
+- 🏦 I'm currently a software developer student
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔮 I use  ```.React```,``` .HTML5```, ```.CSS3```,
 - 🌱 I’m currently learning ```.Next```
