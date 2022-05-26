@@ -15,13 +15,22 @@ alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 
 ##
 
-<div align="center">
-  <a href="https://github.com/Barbosa-Felipe">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=Barbosa-Felipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <!--<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosa-Felipe&layout=compact&langs_count=7&theme=synthwave"/>--!>
-</div>
+<table border="0" align="center">
+<tr border="0">
+      <td width="50%" align="center">
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Barbosa-Felipe&theme=synthwave&show_icons=true&count_private=true" />
+        <br></br>
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Barbosa-Felipe&theme=synthwave&hide_border=true" />
+      </td>
+      <td width="50%" align="center">
+            <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100%"/>
+      </td>
+</tr>
+</table>
   
-<div style="display: inline_block" align="center"><br>
+  ### 💻 Stack I Work With
+  
+<div style="display: inline_block"><br>
   <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
