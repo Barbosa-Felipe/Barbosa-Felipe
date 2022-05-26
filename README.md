@@ -16,9 +16,9 @@ alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 ##
 
 <div align="center">
-  <a href="https://github.com/C0sm1cWh4l3">
+  <a href="https://github.com/Barbosa-Felipe">
   <img width=50% src="https://github-readme-stats.vercel.app/api?username=Barbosa-Felipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <!--<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0sm1cWh4l3&layout=compact&langs_count=7&theme=synthwave"/>--!>
+  <!--<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosa-Felipe&layout=compact&langs_count=7&theme=synthwave"/>--!>
 </div>
   
 <div style="display: inline_block"><br>
