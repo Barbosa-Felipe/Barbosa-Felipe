@@ -11,7 +11,7 @@ alt="dust mite" width="70%" title="By Benjamin Combs via Unsplash">
 - 🔮 I use  ```.JavaScript```, ```.React```,``` .HTML5```, ```.CSS3```
 - 🌱 I’m currently learning ```.C```
 - 💬 Talk to me about games, series and food 🥘
-- ⚡ My native language is Portuguese, but i can speak English
+- ⚡ My native language is Portuguese, but i can work with English
 
 ##
 
